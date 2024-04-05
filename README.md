@@ -1,3 +1,14 @@
+
+<iframe src="https://giphy.com/embed/Qu61Zv3BR7r88l2EGI" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Qu61Zv3BR7r88l2EGI">via GIPHY</a></p>
+
+
+
+
+
+
+
+
+
 # Password Manager
 
 A simple and secure password manager built with Python and Flask.
