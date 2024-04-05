@@ -1,8 +1,5 @@
 
-<iframe src="https://giphy.com/embed/Qu61Zv3BR7r88l2EGI" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Qu61Zv3BR7r88l2EGI">via GIPHY</a></p>
-
-
-
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJpY2VneHNhajM2NDhqdmJva2lvZnIxYW84bHB6dTU4MnI0dHBrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qu61Zv3BR7r88l2EGI/source.gif
 
 
 
