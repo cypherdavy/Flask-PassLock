@@ -31,8 +31,58 @@ A simple and secure password manager built with Python and Flask.
 4. Stage and commit the project files: `git add .`, `git commit -m "Initial commit"`
 5. Push the new branch up to GitHub: `git push -u origin main`
 6. Open a pull request for the changes
-7. # Permissive License
+7. 
 
+# Flask User Authentication App
+
+This Flask application provides user authentication functionalities including signup, login, and a simple dashboard to manage passwords for different services.
+
+## Prerequisites
+
+- Python 3.x installed on your machine
+- Flask framework installed (`pip install Flask`)
+
+## Getting Started
+
+1. Clone or download this repository to your local machine.
+
+2. Navigate to the project directory in your terminal or command prompt.
+
+3. Install Flask if you haven't already by running the following command:
+pip install Flask
+
+sql
+Copy code
+
+4. Start the Flask development server by running the following command:
+python app.py
+
+markdown
+Copy code
+
+5. Once the server is running, open your web browser and navigate to `http://127.0.0.1:5000/` to access the application.
+
+## Usage
+
+- **Signup**: Visit `http://127.0.0.1:5000/signup` to create a new user account by providing a username and password.
+
+- **Login**: After signing up, you can log in to your account by visiting `http://127.0.0.1:5000/login` and entering your credentials.
+
+- **Dashboard**: Once logged in, you'll be redirected to the dashboard where you can add passwords for different services. Visit `http://127.0.0.1:5000/dashboard` to access the dashboard.
+
+## Notes
+
+- This application is for educational purposes and should not be used in a production environment without proper security measures in place.
+
+- Remember to handle sensitive information securely, such as secret keys and passwords, in a real-world application.
+
+## Author
+
+[Cypherdavy]
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 Copyright (c) [2024] [Cypherdavy]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
